@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=
+Comment=Prosounds
+Exec=prosounds
+StartupWMClass=prosounds
+Icon=prosounds
+Name=Prosounds
+Terminal=false
+Type=Application
